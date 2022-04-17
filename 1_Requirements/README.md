@@ -49,20 +49,20 @@
       these two parts creats close circuit when door is close and when door is open it will switch circuit.
 
 # SWOT Analysis :-
-*SWOT Analysis of Banking industry focuses on strength, weakness, opportunities and threats. Strength and weakness are the internal factors opportunities and threats are external factors.*
-*SWOT Analysis is a validated framework that helps to evaluate business performance of Banking Industry.*
+
  
   ## Strength:-
-     1.Easy To understand And Easy to do all the Things
-     2.Financial Stability
-     3.Connecting people
+     1.Energy savings
+     2.Lesser maintenance.
+     3.Assorted costs.
   ## Weakness:-
-     1.Global Economics Susceptibility
-     2.Coverage in Rural areas
+     1.Possibilities of Damaging the switch may wear out
+     2.May Run out of batteries
   ## Opportunities:-
      1.Advancements in Technology
-     2.For Rural Growth
+     2.Secureness
   ## Threats:-
-     1.System Stability
-     2.Competition Stiff
+     1.Incomplete home coverage
+     2.Installing incompatible security products
+     3.System Stability
      
