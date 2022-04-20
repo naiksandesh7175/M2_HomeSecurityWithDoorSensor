@@ -14,8 +14,9 @@
 
 |  ID  |             Discription           |    status   |
 |------|-----------------------------------|-------------|
-|HR_01 | Operating system(Windows10/11/Linux) | Implemented |
-|HR_02 | C Language                        | Implemented |
+|HR_01 | User gets idea about Door status either open or closed  | Implemented |
+|HR_02 | gets Door Status through specific indication (through LED)                        | Implemented |
+|HR_03 | Automatic opening and closing of Door when object/User in front of Door.          | In Future |
 
 
 ### Low level requirements:-
