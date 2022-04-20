@@ -23,12 +23,10 @@
 
 |  ID  |             Discription                          |    status   |
 |------|--------------------------------------------------|-------------|
-|LR_01 | Open new Account                                 | Implemented |
-|LR_02 | Withdraw Amount                                  | Implemented |
-|LR_03 | Deposit Amount                                   | Implemented |
-|LR_04 | User List in bank                                | Implemented |
-|LR_05 | Updated Balance                                  | Implemented |
-|LR_06 | Updated Bank transaction Status                  | Implemented |
+|LR_01 | Gets Indication of Open Door ( High LED )                                 | Implemented |
+|LR_02 | Gets Indication of Closed Door ( Low LED )                                  | Implemented |
+|LR_03 | Getting Indication through Specific sound ( Alarm 🚨 )                                   | Pending |
+
 
 
 
