@@ -1,12 +1,12 @@
 # Description:-
-    Here is a Project developed as mini project in embedded c as Home Security With Door Sensor
-    Door sensors are an essential component of your home security system
-    In this mini project you can get status of our Home Door which is closed or open
-    If the Led connected to atmega port is high means if Led is Flashing then you can get the idea about status of Door i.e our door is open
-    similarly, If the Led connected to atmega controller port is low means Led is not Flashing then you can get that the Door is Closed
-    this is all becoz of I have made a system that if Door is closed then there will be no supply to the Led so Led will not glow
-    similarly for open of door there will be supply of 5V that i have made so that Led will glow there
-    so this is how you can get status of you Home Door with this Embedded project
+Here is a Project developed as mini project in embedded c as Home Security With Door Sensor
+Door sensors are an essential component of your home security system
+In this mini project you can get status of our Home Door which is closed or open
+If the Led connected to atmega port is high means if Led is Flashing then you can get the idea about status of Door i.e our door is open
+similarly, If the Led connected to atmega controller port is low means Led is not Flashing then you can get that the Door is Closed
+this is all becoz of I have made a system that if Door is closed then there will be no supply to the Led so Led will not glow
+similarly for open of door there will be supply of 5V that i have made so that Led will glow there
+so this is how you can get status of your Home Door with this Embedded project
                  
 
 # Requirements:--
