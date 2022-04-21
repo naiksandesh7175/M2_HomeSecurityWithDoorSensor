@@ -1,5 +1,5 @@
 
-## Table no: High Level test plan
+# Table of Test Cases
 
 |**Test ID**|**Description**|**Exp i/P**|**Exp O/P**|**PASS/FAIL**|
 | :- | :-: | :-: | :-: | :-: |
