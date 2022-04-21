@@ -34,6 +34,13 @@ so this is how you can get status of your Home Door with this Embedded project
 |LR_03 | Getting Indication through Specific sound ( Alarm 🚨 )                                   | Pending |
 
 
+# Table of Test Cases
+
+|**Test ID**|**Description**|**Exp i/P**|**Exp O/P**|**PASS/FAIL**|
+| :- | :-: | :-: | :-: | :-: |
+|TC\_01|At the stage of Opening of Door|Open door|High LED|PASS|
+|TC\_02|At the stage of Closing of Door|Close door|Low LED|PASS|
+
 
 
 # 4'W 1'H:-
