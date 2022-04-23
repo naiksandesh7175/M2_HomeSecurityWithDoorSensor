@@ -3,7 +3,7 @@
 int main(void)
 
 {
-	DDRB=DDRB & 0b11111101;//fd Input pin b of controller logic 0 for high
+	DDRB=DDRB & 0b11111111;//fd Input pin b of controller logic 0 for high
 
 	DDRC=DDRC | 0b01000000;//40 Output pin c of controller logic 1 for low
 
